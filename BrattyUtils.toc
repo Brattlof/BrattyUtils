@@ -1,0 +1,7 @@
+## Interface: 20501
+## Title: BrattyUtils
+## Author: Brattlof
+## Notes: Personal Utilities for Brattlof
+## Version: 0.0.1
+
+addons\main.xml

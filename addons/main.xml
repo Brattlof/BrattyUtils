@@ -1,0 +1,4 @@
+<Ui>
+	<Script file="BrattyUtils.lua"/>
+	<Script file="clicklinks\clicklinks.lua"/>
+</Ui>
