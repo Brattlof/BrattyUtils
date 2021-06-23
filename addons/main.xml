@@ -1,4 +1,6 @@
 <Ui>
 	<Script file="BrattyUtils.lua"/>
-	<Script file="clicklinks\clicklinks.lua"/>
+	<Script file="BrattyClickLinks\BCL.lua"/>
+	
+	<Include file="BrattyButtonBag\BBB.xml"/>
 </Ui>
